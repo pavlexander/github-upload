@@ -1,14 +1,14 @@
-# Testing out GitHub - branched!
+# Testing out GitHub - branched! 2
 
 Using SourceView for work
 
-## Paragraph 2
+## Paragraph 2 - 3!
 
 Some text 1
 
 ### Paragraph 3
 
-Some text 2
+Some text 2 - 4!
 
 ```
 This looks like a quote
